@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="storage_removed">Storage Removed</string>
+    <string name="error_selecting_file">Error Selecting File</string>
+    <string name="empty_directory">Empty Directory</string>
+</resources>
