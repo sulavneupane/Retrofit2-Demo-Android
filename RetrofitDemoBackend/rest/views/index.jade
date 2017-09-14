@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  form(action="/users/upload", method="post", enctype="multipart/form-data")
+    input(type="file", name="photo")
+    input(type="submit", value="Upload")
